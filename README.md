@@ -5,7 +5,7 @@ This program is to do the “guess the color” task.  Specifically, given a set
 
 ### How to run the application
 
-The program can be run with the command line
+The program can be run with the command line:
 
 python3 [yourprogram].py [input-file] [output-file]
 

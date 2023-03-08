@@ -19,3 +19,4 @@ and the output will be like
 “blue ribbon”
 “green bottle”
 
+<img src="Pictures/smile1.jpg" alt="Alt text" title="Optional title">

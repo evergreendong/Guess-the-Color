@@ -9,12 +9,12 @@ The program can be run with the command line:
 
 python3 [program].py [input-file] [output-file]
 
-and input file would look like
+Project Demonstration
 
-“b ribbon”
-“g bottle”
+Input:
 
-and the output will be like
+![input](https://user-images.githubusercontent.com/70967683/223878391-7bda7882-22da-4330-9732-49b768648331.jpg)
 
-“blue ribbon”
-“green bottle”
+Output:
+
+![output](https://user-images.githubusercontent.com/70967683/223878416-af7f5951-9943-4716-92a6-2e9a0bb6329c.jpg)

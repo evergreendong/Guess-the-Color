@@ -19,6 +19,3 @@ and the output will be like
 “blue ribbon”
 “green bottle”
 
-
-### Sample Demo
-

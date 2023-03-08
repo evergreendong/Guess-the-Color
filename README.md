@@ -9,7 +9,7 @@ The program can be run with the command line:
 
 python3 [program].py [input-file] [output-file]
 
-Project Demonstration
+### Project Demonstration
 
 Input:
 

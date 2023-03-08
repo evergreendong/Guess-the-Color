@@ -21,4 +21,4 @@ and the output will be like
 
 
 ### Sample Demo
-![alt text](http://url/to/img.png)
+

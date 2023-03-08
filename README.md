@@ -18,6 +18,3 @@ and the output will be like
 
 “blue ribbon”
 “green bottle”
-
-
-![draw portraits](https://user-images.githubusercontent.com/70967683/223866952-a7c13d4b-5ddb-4e30-8cdb-0f18bd923a3d.jpg)

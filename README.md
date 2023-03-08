@@ -19,4 +19,5 @@ and the output will be like
 “blue ribbon”
 “green bottle”
 
-<img src="~/Pictures/smile1.jpg" alt="Alt text" title="Optional title">
+
+![draw portraits](https://user-images.githubusercontent.com/70967683/223866952-a7c13d4b-5ddb-4e30-8cdb-0f18bd923a3d.jpg)
